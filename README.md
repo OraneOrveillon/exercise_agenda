@@ -2,6 +2,7 @@
 
 ## Endpoints :
 - GET : ```/agendas/{userId}```
+- - GET : ```/agendas/{userId}/contacts/```
 - GET : ```/agendas/{userId}/contacts/{contactId}/```
 - POST : ```/agendas/{userId}```
 - POST : ```/agendas/{userId}/contacts/{contactId}/```
